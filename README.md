@@ -3,7 +3,7 @@
 ## Overview
 This is a simple To-Do List web application that allows users to create and manage tasks efficiently. The system consists of three main components:
 - **Frontend**: Built using React with Redux for state management and Material-UI (MUI) for styling.
-- **Backend**: Developed using Java Selenium with TestNG for testing.
+- **Backend**: Developed using SpringBoot.
 - **Database**: MySQL is used to store tasks.
 - **Testing**: Automated UI and API testing using Selenium and TestNG.
 
@@ -17,7 +17,7 @@ This is a simple To-Do List web application that allows users to create and mana
 
 ## Tech Stack
 - **Frontend**: React, Redux, Material-UI (MUI)
-- **Backend**: Java, Selenium, TestNG
+- **Backend**: Java, SpringBoot, TestNG
 - **Database**: MySQL
 - **Containerization**: Docker, Docker Compose (excluding tests)
 - **Testing**: Selenium, TestNG
